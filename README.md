@@ -1,1 +1,4 @@
 # DeepTomTriNet-Tomato-Leaf-Disease-Classification
+Early and precise detection of tomato leaf diseases is crucial for preventing their spread and minimizing crop losses. With the growing emphasis on sustainable agriculture and precision farming, AI-driven disease detection using image processing offers an innovative solution to this long-standing challenge. 
+
+An early and correct diagnosis of tomato leaf disease is necessary for farmers. We had made a comparative study of different convolutional network models and decided an appropriate deep transfer learning model. For experimental purpose, a common dataset with 16,011 images is used, split equally for 10 diseases..We had made feature extraction from certain layer of pre-trained models. Then, the entire features extracted were combined. Classifiers such as Linear SVM, Cubic SVM and Weighted KNN are used to predict what type of leaf disease is impacted. 
